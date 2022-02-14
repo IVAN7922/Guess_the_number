@@ -1,0 +1,19 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+.col {
+    background-color: aquamarine;
+    color: rgb(11, 13, 129);
+}
+
+.card-header {
+    background-color: bisque;
+    color: crimson;
+}
+
+.card-footer {
+    background-color: beige;
+    color: chocolate;
+}
