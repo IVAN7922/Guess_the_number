@@ -9,4 +9,4 @@
 
 ### Как открыть /запустить
 В файловом менеджере кликнуть по файлу [**index.html**](/index.html).
-Или перейти по ссылке [https://ivan7922.github.io/Guess_the_number/].
+Или перейти по ссылке https://ivan7922.github.io/Guess_the_number/.
