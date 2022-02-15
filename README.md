@@ -8,5 +8,5 @@
 * JavaScript.
 
 ### Как открыть /запустить
-В файловом менеджере кликнуть по файлу [**index.html**](/index.html).
+В файловом менеджере кликнуть по файлу index.html.
 Или перейти по ссылке https://ivan7922.github.io/Guess_the_number/.
