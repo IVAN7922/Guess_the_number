@@ -1,19 +1,27 @@
 .game-card {
     height: 100vh;
     font-family: 'Open Sans', monospace;
+    color: black;
 }
 
 .col {
     background-color: aquamarine;
-    color: rgb(11, 13, 129);
+    color: rgb(218, 16, 16);
 }
 
 .card-header {
-    background-color: bisque;
+    background-color: rgb(33, 177, 28);
     color: crimson;
 }
 
 .card-footer {
-    background-color: beige;
-    color: chocolate;
+    background-color: rgb(218, 214, 19);
+    color: rgb(202, 18, 28);
+}
+
+p {
+    color: rgb(55, 14, 168);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
 }
