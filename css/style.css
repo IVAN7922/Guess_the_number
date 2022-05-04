@@ -1,7 +1,14 @@
+body {
+    background-color: rgb(53, 157, 189);
+}
+
+.container {
+max-width: 350px;
+}
+
 .game-card {
     height: 100vh;
     font-family: 'Open Sans', monospace;
-    color: black;
 }
 
 .col {
