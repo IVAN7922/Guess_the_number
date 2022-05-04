@@ -210,7 +210,7 @@ document.getElementById('btnOver').addEventListener('click', function () {
             answerNumber = ((minValue + maxValue) / 2 | 0);
             orderNumber++;
             orderNumberField.innerText = orderNumber;
-            answerField.innerText = Reply('Вы загадали число : ', 'Наверное, это число : ', 'Ваше число : ') + Text_Value(answerNumber) + ' ?';
+            answerField.innerText = Reply('Вы загадали число ', 'Наверное, это число ', 'Ваше число ') + Text_Value(answerNumber) + ' ?';
         }
     }
 })
@@ -225,7 +225,7 @@ document.getElementById('btnLess').addEventListener('click', function () {
             answerNumber = ((minValue + maxValue) / 2 | 0);
             orderNumber++;
             orderNumberField.innerText = orderNumber;
-            answerField.innerText = Reply('Вы загадали число : ', 'Наверное, это число : ', 'Ваше число : ') + Text_Value(answerNumber) + ' ?';
+            answerField.innerText = Reply('Вы загадали число ', 'Наверное, это число ', 'Ваше число ') + Text_Value(answerNumber) + ' ?';
         }
     }
 })
